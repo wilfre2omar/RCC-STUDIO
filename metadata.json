@@ -1,0 +1,6 @@
+{
+  "name": "Retail Intelligence & RGM Suite PR",
+  "description": "Suite ejecutiva de Category Management, Revenue Growth Management (RGM), análisis PVM, geografía comercial de Puerto Rico (78 municipios) y generador de dossier PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
